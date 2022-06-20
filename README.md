@@ -44,4 +44,4 @@ team(1/2)_(offensive/defensive/other)_(derived/raw/ratio)_var_#number
 
 ## The other members of the team
 [Albert Antony](https://github.com/albert-antony)  
-[Malleswararao Maguluri](https://github.com/)
+[Malleswararao Maguluri](https://github.com/MalleswararaoMaguluri)
