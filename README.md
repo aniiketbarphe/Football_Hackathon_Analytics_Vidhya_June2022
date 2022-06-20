@@ -41,3 +41,7 @@ team(1/2)_(offensive/defensive/other)_(derived/raw/ratio)_var_#number
                1.raw: variable empirically measured
                2.derived: variable defined based on two or more variables and not empirically measured
                3.ratio: variable defined as a ratio of two raw variables
+
+## The other members of the team
+[Albert Antony](https://github.com/albert-antony)  
+[Malleswararao Maguluri](https://github.com/)
