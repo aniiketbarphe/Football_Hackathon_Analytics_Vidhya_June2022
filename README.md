@@ -46,5 +46,5 @@ team(1/2)_(offensive/defensive/other)_(derived/raw/ratio)_var_#number
 [Albert Antony](https://github.com/albert-antony)  
 [Malleswararao Maguluri](https://github.com/MalleswararaoMaguluri)
 
-## Rank of the team in competition
+## Score of final model in competition
 https://datahack.analyticsvidhya.com/teams/gko_hackers
